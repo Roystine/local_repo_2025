@@ -1,2 +1,3 @@
 This line is added from the local from vi editor
 I am developer2 and adding this line in my clone repo, and will push to master in origin/remote.
+
