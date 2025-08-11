@@ -1,2 +1,3 @@
 This line is added from the local from vi editor
-This is the second line, this line is added from the feature2 branch from the local, need to push it to remote.
+I am developer2 and adding this line in my clone repo, and will push to master in origin/remote.
+
