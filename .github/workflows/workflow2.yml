@@ -1,0 +1,14 @@
+name: Print HelloWorld
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:  # allows manual run
+
+jobs:
+  print:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print HelloWorld
+        run: echo "helloworld from second workflow"
